@@ -28,7 +28,7 @@ O projeto TimerBook tem como objetivo ser um software para gerenciamento de suas
 
 #### PLANEJAMENTO
 
-Para a realização deste projeto já foram definidas as sprints que podem ser vistas em: https://docs.google.com/document/d/1V4DvMkY-GrInUI5vVuY0WGv4ccxDG5rfBKYrIMv2BTI/edit?tab=t.0
+Para a realização deste projeto já foram definidas as sprints que podem ser vistas em:
 
 <br>
 <br>
