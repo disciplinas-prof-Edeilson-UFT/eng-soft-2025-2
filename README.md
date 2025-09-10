@@ -13,6 +13,7 @@
 - Vitória Milhomem Soares
 - Vitória Ferreira Leal Santos
 - Gabriel Rodrigues Costa Ferreira
+- Rick Ribeiro
 
 #### Projeto: 
 RHease
