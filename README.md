@@ -98,8 +98,8 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 ---
 
 ### Grupo 4: 
-#### Gyga-fit
-|<h2>Gyga Fit</h2><br> O Gyga Fit é uma solução digital desenvolvida para otimizar a experiência dos alunos de academias, oferecendo um sistema online acessível por meio de um site. O projeto visa proporcionar praticidade no acesso aos serviços da academia, permitindo que os usuários se cadastrem, solicitem planos de treino personalizados e monitorem seu desempenho de forma intuitiva.|<img src = https://raw.githubusercontent.com/Samuel1-salc/Gyga-fit-gym/main/view/img/logo.png alt = "Gyga fit"  width="1500px"/>
+#### PedeAI
+|<h2>PedeAI</h2><br> O PedeAI otimiza o atendimento em restaurantes ao digitalizar o fluxo de pedidos entre o garçom, cozinha e caixa. Isso elimina problemas comuns do processo manual, como erros de comunicação e atrasos, e resulta em um serviço mais ágil, preciso e organizado para o estabelecimento.|<img src = https://github.com/user-attachments/assets/66b2da22-d9d5-47f7-80d9-8c19ee71c477 alt = "PedeAI"  width="1000px"/>
 | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
@@ -107,22 +107,18 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 #### Equipe
 | Nome | Github |
 | ------------------------- | ------------------------------------------ |
-| João Hott | (https://github.com/HottBraz) |
-| Hallef Kayk | (https://github.com/HallefKayK) |
-| samuel Andrade Luz Carneiro |(https://github.com/Samuel1-salc) |
-| Sophia Ribeiro prado  | (https://github.com/sophiaprado1) |
-| Heitor Fernades | (https://github.com/HeitorFernandes04) |
-| Mauricio Monteiro | (https://github.com/MontDeP) |
+| Arthur Vinicíus de Oliveira Carvalho | [@arthur8409](https://github.com/arthur8409) |
+| Ester Arraiz de Matos   | [@esterarraiz](https://github.com/esterarraiz) |
+| Jorge Antônio Motta Braga |[@jorgespark11](https://github.com/jorgespark11) |
+| Matheus Henrique de Freitas  | [@MatheusHFreitas](https://github.com/MatheusHFreitas) |
+| Vitória Maria Reis Fontana | [@vitoriamrfontanaP](https://github.com/vitoriamrfontana) |
 
 
 #### Repositório:
 | Links Uteis                                                                                |
 |------------------------------------------------------------------------------------------- |
-| [Gyga Fit - Ir ao Repositório](https://github.com/Samuel1-salc/Gyga-fit-gym.git)     |
-| [Landing Page](https://samuel1-salc.github.io/Gyga-fit-gym/) |
-| [Última Release do Projeto](https://github.com/Samuel1-salc/Gyga-fit-gym/releases/tag/v1.0.2) |
-| [Vídeo do produto](https://www.youtube.com/watch?v=48bZQogxUkQ) | 
-| [Apresentação Final](https://github.com/Samuel1-salc/Gyga-fit-gym/blob/main/view/relatorio/pdf%20apresenta%C3%A7%C3%A3o.pdf) |
+| [PedeAI - Ir ao Repositório](https://github.com/esterarraiz/pedeai)     |
+
 
 
 ---
