@@ -37,6 +37,9 @@ O Cinetick é uma plataforma inovadora para reserva de ingressos de cinema, cone
 [Link do repositório](https://github.com/LeanAlbu/Cinetick/tree/develop)
 
 ### Grupo 4:
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/66b2da22-d9d5-47f7-80d9-8c19ee71c477" alt="Logo do PedeAI" width="200"/>
+</p>
 
 #### Membros:
 - Arthur Vinicíus de Oliveira Carvalho
