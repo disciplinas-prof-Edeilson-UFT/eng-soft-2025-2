@@ -1,12 +1,15 @@
 # TimerBook
 
-# ENGENHARIA DE SOFTWARE 2025/02 | UNIVERSIDADE FEDERAL DO TOCANTINS
+# ENGENHARIA DE SOFTWARE 2025/02 | UNIVERSIDADE FEDERAL DO TOCANTINS - PALMAS
 
 **Curso: Ciência da Computação**
 
 **Professor: Dr. Edeílson Milhomem**
 
-**GRUPO 1:**
+
+## Grupos:
+
+### GRUPO 1:
 
 | Nome                           | Perfil GitHub                                 |
 |--------------------------------|----------------------------------------------|
@@ -26,17 +29,6 @@ acesso a banco de dados de livros já cadastrados e sistemas de métricas e lemb
 livros e comensurar seu desempenho.
 
 
-
-
-
-
-
-# Engenharia de Software-2025.2 - Universidade Federal do Tocantins - Palmas
-
-### **Curso**: Bacharelado em Ciência da Computação
-### **Professor**: Edeilson Milhomem da Silva
-
-## Grupos:
 
 ### Grupo 3:
 
