@@ -25,6 +25,8 @@
 #### DESCRIÇÃO DO PROJETO
 
 O projeto TimerBook tem como objetivo ser um software para gerenciamento de suas leituras. Inclui Fetures que inclui cadastro de livros que o usuário esteja lendo, acesso a banco de dados de livros já cadastrados e sistemas de métricas e lembrentes para auxiliar o usuário na leitura de seus diversos livros e comensurar seu desempenho.
+<br>
+link do repositório: https://github.com/lucas-mcarvalho/TimerBook
 
 #### PLANEJAMENTO
 
