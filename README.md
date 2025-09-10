@@ -1,8 +1,8 @@
 # ENGENHARIA DE SOFTWARE 2025/02 | UNIVERSIDADE FEDERAL DO TOCANTINS - PALMAS
 
-**Curso: Ciência da Computação**
+### Curso: Ciência da Computação
 
-**Professor: Dr. Edeílson Milhomem**
+### Professor: Dr. Edeílson Milhomem
 
 
 ## Grupos:
