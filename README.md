@@ -5,6 +5,24 @@
 
 ## Grupos:
 
+
+### Grupo 1:
+
+#### Membros:
+- Tiago Barbosa de Castro Souza
+- Vitor Kawan Barbosa Borges
+- Lucas Monteiro de Carvalho
+- Matheus Silva Pontes
+- Bruno Henrique Frota Sobral 
+- Kayk Zago Pinheiro
+
+
+#### Projeto:
+TimerBook:
+O projeto TimerBook tem como objetivo ser um software para gerenciamento de leituras. Inclui Features que incluem cadastro de livros que o usuário esteja lendo, acesso a banco de dados de livros já cadastrados, lembrentes para auxiliar o usuário na leitura de seus diversos e métricas estatísticas para o usuário comensurar seu desempenho e gerenciar o tempo gasto.
+
+[link do repositório](https://github.com/lucas-mcarvalho/TimerBook)
+
 ### Grupo 2:
 
 #### Membros:
