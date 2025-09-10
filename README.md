@@ -19,7 +19,7 @@
 | Kayk Zago Pinheiro             | [kayke002](https://github.com/kayke002)    |
 
 
-### PROEJETO: TimerBook
+### PROJETO: TimerBook
 
 
 ### DESCRIÇÃO DO PROJETO
