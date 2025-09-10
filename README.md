@@ -28,7 +28,11 @@ O projeto TimerBook tem como objetivo ser um software para gerenciamento de suas
 acesso a banco de dados de livros já cadastrados e sistemas de métricas e lembrentes para auxiliar o usuário na leitura de seus diversos 
 livros e comensurar seu desempenho.
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### Grupo 3:
 
