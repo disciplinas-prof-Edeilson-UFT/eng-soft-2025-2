@@ -12,7 +12,7 @@
 - Maria Fernanda Gomes 
 - Eduardo Alves Silva
 - Murillo Bezerra Valiati
-- André ....
+- André Victor Carvalho
 
 #### Projeto: 
 Cinetick
