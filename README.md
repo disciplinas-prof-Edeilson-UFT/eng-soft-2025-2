@@ -22,26 +22,23 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 #### BiblioTech
 
 
- |<h2><a href="https://bibliotech-1067371253069.southamerica-east1.run.app/">Bibliotech</a></h2><br> O BiblioTech é uma livraria digital que permite a venda de livros digitais (ebooks) de forma acessível e organizada. Os usuários poderão explorar um catálogo de livros, realizar compras e acessar sua biblioteca digital para leitura dos ebooks adquiridos.|<img src="https://gwgmjgyiyrhwgnspuaud.supabase.co/storage/v1/object/sign/images/logo.jpg?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9iYjA3NWUwNS1kY2Y3LTRhZjktOGUyNy01YmU4YzczZmVmNzEiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJpbWFnZXMvbG9nby5qcGciLCJpYXQiOjE3NTAyMDYyMDAsImV4cCI6MTkwNzg4NjIwMH0.vGC0x2iX3cm-lAqx0G9GfwEy9FzF0K_pmUA9sj1eOtk" alt="Bibliotech" /> |
+ |<h2><a href="https://bibliotech-1067371253069.southamerica-east1.run.app/">TimerBook</a></h2><br>O projeto TimerBook tem como objetivo ser um software para gerenciamento de leituras. Inclui Features que incluem cadastro de livros que o usuário esteja lendo, acesso a banco de dados de livros já cadastrados, lembrentes para auxiliar o usuário na leitura de seus diversos e métricas estatísticas para o usuário comensurar seu desempenho e gerenciar o tempo gasto.|<img src="https://i.imgur.com/kMMHgXU.png" alt="TimerBook" /> |
 | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 #### Equipe
 | Nome | Github |
-| ------------------------- | ------------------------------------------ |
-| Guilherme Thomaz | [@thomazllr](https://github.com/thomazllr) |
-| Ítalo Reis | [@italohreis](https://github.com/italohreis) |
-| Marcos Freire | [@MarcosFrMelo](https://github.com/MarcosFrMelo) |
-| Jhennifer da Silva | [@jhenisushi](https://github.com/jhenisushi) |
-| Luiz Felipe da paz leal | [@Luiz Felipe](https://github.com/arkfx) |
+| ---------------------------------------------- | ------------------------------------------------------ |
+| Tiago Barbosa de Castro Souza                  | [@TiagoBrs](https://github.com/TiagoBrs)               |
+| Vitor Kawan Barbosa Borges                     | [@KawanVitor1](https://github.com/KawanVitor1)         |
+| Lucas Monteiro de Carvalho                     | [@lucas-mcarvalho](https://github.com/lucas-mcarvalho) |
+| Matheus Silva Pontes                           | [@matheuspontes01](https://github.com/matheuspontes01) |
+| Bruno Henrique Frota Sobral                    | [@Bruno-uft](https://github.com/Bruno-uft)             |
+| Kayke Zago Pinheiro                            | [@kayk002](https://gitihub.com/kayk002)                |
 
 #### Repositório:
-| Links Uteis                                                                                |
-|------------------------------------------------------------------------------------------- |
-| [BiblioTech - Ir ao Repositório](https://github.com/thomazllr/bibliotech)     |
-| [Landing Page](https://thomazllr.github.io/bibliotech/) |
-| [Última Release do Projeto](https://github.com/thomazllr/bibliotech/releases/tag/v5.0.0) |
-| [Vídeo do produto](https://youtu.be/jdrw7Boz4Xs?feature=shared) | 
-| [Apresentação Final](https://github.com/thomazllr/bibliotech/blob/main/relatorios/apresentacao-final_bibliotech.pdf) |
+| Links Uteis                                                                                                          |
+|--------------------------------------------------------------------------------------------------------------------- |
+| [TimerBook - Ir ao Repositório](https://github.com/lucas-mcarvalho/TimerBook)                                        |
 
 <hr>
 
