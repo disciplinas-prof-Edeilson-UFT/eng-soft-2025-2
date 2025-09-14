@@ -71,3 +71,23 @@ PedeAI
 O PedeAI otimiza o atendimento em restaurantes ao digitalizar o fluxo de pedidos entre o garçom, cozinha e caixa. Isso elimina problemas comuns do processo manual, como erros de comunicação e atrasos, e resulta em um serviço mais ágil, preciso e organizado para o estabelecimento.
 
 [Link do repositório](https://github.com/esterarraiz/pedeai)
+
+
+### Grupo 5:
+
+#### Membros:
+- João Pedro Felix Veloso
+- Kauelly Carvalho Marques
+- Artur Anderson Alves Corrêa
+- Giovana Torres de Lima Silva
+- Ricardo Pereira Rodrigues de Carvalho
+
+#### Projeto: 
+myBeat é uma plataforma web para entusiastas de música, funcionando como um diário pessoal, o objetivo do myBeat é criar um espaço onde os usuários possam registrar os álbuns que ouvem, escrever resenhas detalhadas e atribuir notas.
+
+
+[Link do repositório](https://github.com/FelixSJ1/Mybeat)
+
+
+
+
