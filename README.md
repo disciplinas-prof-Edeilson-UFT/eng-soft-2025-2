@@ -185,3 +185,23 @@ Nome | Github
 
 ---
 
+### Grupo 7: 
+#### VirtuaLib
+| <h2>VirtuaLib</h2><br> O VirtuaLib é um sistema de gerenciamento de bibliotecas que facilita o controle de empréstimos, devoluções e autenticação de usuários. | <img src="https://github.com/user-attachments/assets/3a6c7a74-bb92-4d0e-bc3e-d7f9d2cf9c22" alt="VirtuaLib" width="1000px"/> |
+| ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+
+#### Equipe
+| Nome | Github |
+| ------------------------- | ------------------------------------------ |
+| Cayke Daniel | [@cayke1](https://github.com/cayke1) |
+| Filipe Santos | [@Purazika](https://github.com/Purazika) |
+| Lucas Yudi | [@Yuud1](https://github.com/Yuud1) |
+| Gabryel | [@dellannegabryel-commits](https://github.com/dellannegabryel-commits) |
+| Lucas Farias | [@Kl4uz](https://github.com/Kl4uz)|
+
+
+#### Repositório:
+| Links Úteis |
+|--------------|
+| [VirtuaLib - Ir ao Repositório](https://github.com/cayke1/VirtuaLib) |
