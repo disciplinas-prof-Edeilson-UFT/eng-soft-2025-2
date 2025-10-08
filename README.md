@@ -73,27 +73,22 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 <hr>
 
 ### Grupo 3:
-|![5e59dc5f-01ae-4219-9555-aa839e718ddf](https://github.com/user-attachments/assets/160b84f3-2270-439e-a23d-f93fd4c2fed8) | <h2><a href="https://github.com/DevThiagoGalvaoAmorim/Do-it">Do it</a></h2><br> Este é um aplicativo de gerenciamento de tarefas que ajuda você a organizar, acompanhar e concluir suas tarefas com eficiência! |
+|![) | <h2><a href="https://github.com/LeanAlbu/Cinetick">Cinetick</a></h2><br> O CineTick é uma plataforma voltada para a implementação do ambiente virtual de franquias de cinema. O sistema foca amplamente na interação com o usuário, permitindo que este veja os filmes em cartaz, suas avaliações, comentários de outros usuários e interaja diretamente com uma comunidade focada na sétima arte. |
 | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 #### Equipe
 | Nome | Github |
 | ------------------------- | ------------------------------------------ |
-| Thiago Galvão Amorim | [@DevThiagoGalvaoAmorim](https://github.com/DevThiagoGalvaoAmorim) |
-| Douglas Alves da Cruz | [@douglasalvesc](https://github.com/douglasalvesc) |
-| Ruam Marcos Maciel dos Santos | [@RuamMarcos](https://github.com/RuamMarcos) |
-| João Sestari Galvão | [@joaosgalvao](https://github.com/joaosgalvao) |
-| Raphael Sales de Souza | [@raphaelsales](https://github.com/raphaelsales) |
-| Guilherme da Silva Carvalho | [@guilherme1737](https://github.com/guilherme1737) |
+| Lean de Albuquerque | [@LeanAlbu](https://github.com/LeanAlbu) |
+| André Victor Carvalho Alves | [@Andre](https://github.com/Andr206) |
+| Eduardo Alves Silva| [@dudupn](https://github.com/dudupn) |
+| Maria Fernanda Gomes Mendonça | [@mafezzzz](https://github.com/mafezzzz) |
+| Murilo Bezerra Valiati | [@Murilo](https://github.com/Murilo-Valiati) |
 
 #### Repositório:
 | Links Uteis                                                                                |
 |------------------------------------------------------------------------------------------- |
-| [Do it- Ir ao Repositório](https://github.com/DevThiagoGalvaoAmorim/Do-it.git)     |
-| [Landing Page](https://ruammarcos.github.io/landing_page/) |
-| [Última Release do Projeto](https://github.com/DevThiagoGalvaoAmorim/Do-it/archive/refs/tags/v1.7.zip) |
-| [Vídeo do produto](https://drive.google.com/file/d/1ZOldysTAgGjsxIrZFBZADYAobRT2IB0B/view) | 
-| [Apresentação Final](https://github.com/DevThiagoGalvaoAmorim/Do-it/blob/main/relatorio/Apresenta%C3%A7%C3%A3o%20de%20trabalho%20de%20curso%20tcc%20moderno%20branco%20cinza.pdf) |
+| [Cinetick- Ir ao Repositório](https://github.com/LeanAlbu/Cinetick?tab=readme-ov-file)     |
 
 ---
 
