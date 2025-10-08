@@ -22,7 +22,7 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 #### BiblioTech
 
 
- |<h2><a href="https://bibliotech-1067371253069.southamerica-east1.run.app/">TimerBook</a></h2><br>O projeto TimerBook tem como objetivo ser um software para gerenciamento de leituras. Inclui Features que incluem cadastro de livros que o usuário esteja lendo, acesso a banco de dados de livros já cadastrados, lembrentes para auxiliar o usuário na leitura de seus diversos e métricas estatísticas para o usuário comensurar seu desempenho e gerenciar o tempo gasto.|<img src="https://i.imgur.com/kMMHgXU.png" alt="TimerBook" /> |
+ |<h2><a href="https://bibliotech-1067371253069.southamerica-east1.run.app/">TimerBook</a></h2><br>O projeto TimerBook tem como objetivo ser um software para gerenciamento de leituras. Inclui Features que incluem cadastro de livros que o usuário esteja lendo, acesso a banco de dados de livros já cadastrados, lembrentes para auxiliar o usuário na leitura de seus diversos e métricas estatísticas para o usuário comensurar seu desempenho e gerenciar o tempo gasto.|<img src="https://i.imgur.com/XpxTUXG.png" alt="TimerBook" /> |
 | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 #### Equipe
@@ -169,33 +169,6 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 
 ---
 
-
-
-### Grupo 6:
-| <img src="https://github.com/JonataRubens/NutriCalc/blob/396e4879f2ed8cbf5416601db055cd68022a8750/logo%20nutri%20(1).png" alt="Logo do Projeto" width="300"/> | <h2>NutriCalc</h2> NutriCalc é uma aplicação web desenvolvida com PHP, HTML e CSS, com o objetivo de facilitar o controle e acompanhamento de informações nutricionais.|
-| :----------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-#### Equipe
-
-Nome | Github  
---- | ---    
-[Afonso Dglan](https://github.com/AfonsoDglan) | [@AfonsoDglan](https://github.com/AfonsoDglan)
-[Caio Gonçalves Nascimento](https://github.com/caiogn-dev) | [@caiogn-dev](https://github.com/caiogn-dev)  
-[Jonata Rubens](https://github.com/JonataRubens) | [@JonataRubens](https://github.com/JonataRubens)
-[Marcus Vinícius](https://github.com/Galessss) | [@Galessss](https://github.com/Galessss)
-
-
-## Repositório:
-
-| Links Úteis                                                                                                                |
-| :------------------------------------------------------------------------------------------------------------------------- |
-| [NutriCalc - Repositório](https://github.com/JonataRubens/NutriCalc)  |
-| [Landing Page](https://jonatarubens.github.io/NutriCalc/)                                                           |
-| [Última Release do Projeto](http://34.56.153.53/)          |
-| [Video do Produto](https://github.com/JonataRubens/NutriCalc/blob/396e4879f2ed8cbf5416601db055cd68022a8750/video-do-produto_final.mp4)          |
-| [Apresentação Final](https://gamma.app/docs/NutriCalc-ton6b9ixynp6jrf)         |
-
----
 
 ### Grupo 7: 
 #### VirtuaLib
