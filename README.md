@@ -121,7 +121,7 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 
 ### Grupo 5: 
 
-| <img src="https://github.com/FelixSJ1/Mybeat/blob/Giovana/Desenvolvimento/public/images/LogoF.png" alt="Logo do Projeto" width="1500"/> | <h2><a href="https://github.com/lfocarvalho/engenhariadesoftware">Daily Planner</a></h2><br>  O MyBeat é um programa de gerenciamento de músicas, onde o usuário gerencia seus gostos musicais  |
+| <img src="https://github.com/FelixSJ1/Mybeat/blob/Giovana/Desenvolvimento/public/images/LogoF.png" alt="Logo do Projeto" width="1500"/> | <h2><a href="https://github.com/lfocarvalho/engenhariadesoftware">MyBeat</a></h2><br>  O MyBeat é um programa de gerenciamento de músicas, onde o usuário gerencia seus gostos musicais  |
 | :----------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
