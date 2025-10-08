@@ -144,6 +144,33 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 
 ---
 
+### Grupo 6: 
+#### DinDin
+|<h2>DinDin</h2><br> DinDin é uma aplicação web desenvolvida com PHP, HTML e CSS, com o objetivo de facilitar o controle e acompanhamento de finanças pessoais de forma simples e intuitiva.|<img src = https://github.com/Thales-uft2022-2/DinDin/blob/main/public/images/DinDin_Logo_Option2.jpg alt = "DinDin"  width="1000px"/>
+| ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+
+
+#### Equipe
+| Nome | Github |
+| ------------------------- | ------------------------------------------ |
+| Cristian Herrera Alves | [@HerreraCris](https://github.com/HerreraCris) |
+| Gabriel Portuguez Portuguez   | [@GabrielPPortuguez](https://github.com/GabrielPPortuguez) |
+| Thales Marques Rodrigues |[@Thales-uft2022-2](https://github.com/Thales-uft2022-2) |
+| Vinicius Fernandes Simon  | [@viniciusfernandessimon](https://github.com/viniciusfernandessimon) |
+
+
+#### Repositório:
+| Links Uteis                                                                                |
+|------------------------------------------------------------------------------------------- |
+| [DinDin - Repositório](https://github.com/Thales-uft2022-2/DinDin)     |
+
+
+
+---
+
+
+
 ### Grupo 6:
 | <img src="https://github.com/JonataRubens/NutriCalc/blob/396e4879f2ed8cbf5416601db055cd68022a8750/logo%20nutri%20(1).png" alt="Logo do Projeto" width="300"/> | <h2>NutriCalc</h2> NutriCalc é uma aplicação web desenvolvida com PHP, HTML e CSS, com o objetivo de facilitar o controle e acompanhamento de informações nutricionais.|
 | :----------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
