@@ -121,41 +121,26 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 
 ### Grupo 5: 
 
-| <img src="https://github.com/lfocarvalho/engenhariadesoftware/blob/c7dec7857940ed4375cf1e80ae98d010acd14ae6/Daily_Planner/app/img/458632683-e6fa9761-08d9-4938-af4f-1b137490df52.png" alt="Logo do Projeto" width="1500"/> | <h2><a href="https://github.com/lfocarvalho/engenhariadesoftware">Daily Planner</a></h2><br>  O Daily Planner é uma aplicação de agenda pessoal online, inspirada em ferramentas como o Notion, mas com foco em simplicidade e objetividade. O projeto permite que os usuários gerenciem tarefas, organizem suas atividades diárias e acompanhem sua produtividade através de uma interface limpa e responsiva. Este projeto foi desenvolvido como parte da disciplina de Engenharia de Software da Universidade Federal do Tocantins. |
+| <img src="https://github.com/FelixSJ1/Mybeat/blob/Giovana/Desenvolvimento/public/images/LogoF.png" alt="Logo do Projeto" width="1500"/> | <h2><a href="https://github.com/lfocarvalho/engenhariadesoftware">Daily Planner</a></h2><br>  O MyBeat é um programa de gerenciamento de músicas, onde o usuário gerencia seus gostos musicais  |
 | :----------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-## Tecnologias Utilizadas:
-
-  - **Backend:** PHP 7.4+ para toda a lógica da aplicação.
-  - **Banco de Dados:** MySQL com interação via PDO para prevenção de SQL Injection.
-  - **Frontend:** HTML5, CSS3 (com Flexbox e Grid) e JavaScript puro.
-  - **Bibliotecas:** Chart.js para gráficos de produtividade e PHPMailer para o serviço de e-mails.
-  - **API:** API RESTful para serviços desacoplados, como envio de e-mails, com autenticação via API Key.
-  - **Gerenciador de Dependências:** Composer para a API.
-  - **Testes:** PHPUnit para testes unitários da lógica de negócios.
-  - **Controle de Versão:** Git e GitHub.
-  - **DevOps:** Shell Script para automação da configuração do banco de dados.
 
 ## Componentes do Projeto:
 
-| Nome                               | GitHub                                                     |
-| :--------------------------------- | :--------------------------------------------------------- |
-| Isabela Barros de Oliveira.        | [@Isabelabarros-o](https://github.com/isabelabarros-o)       |
-| Letícia Gomes Lopes.               | [@LeticiaGLopes-151](https://github.com/LeticiaGLopes-151)   |
-| Luiz Fernando De Oliveira Carvalho | [@Lfocarvalho](https://github.com/lfocarvalho)             |
-| Mateus Leopoldo Santiago da Silva  | [@MateusLeopoldo](https://github.com/MateusLeopoldo)       |
-| Natália Morais Nerys.              | [@natalia-nerys](https://github.com/natalia-nerys)         |
-| Ranor Victor dos Santos Araújo.    | [@ranorvictor](https://github.com/ranorvictor)             |
+| Nome                               | GitHub                                                         |
+| :--------------------------------- | :---------------------------------------------------------     |
+| João Pedro Felix Veloso.           | [@FelixSJ1](https://github.com/FelixSJ1)                       |
+| Artur Anderson Alves Correa.       | [@ArturML01](https://github.com/ArturML01)                     |
+| Ricardo Pereira Rodrigues.         | [@Ldevricardorodrigues](https://github.com/devricardorodrigues)|
+| Giovana Torres de Lima Silva       | [@F4RFALLA](https://github.com/F4RFALLA)                       |
+| Kauelly Carvalho Marques           | [@K4U311Y](https://github.com/K4U311Y)                         |
+
 
 ## Repositório:
 
 | Links Úteis                                                                                                                |
 | :------------------------------------------------------------------------------------------------------------------------- |
-| [Daily Planner - Ir ao Repositório](https://github.com/lfocarvalho/engenhariadesoftware)                                   |
-| [Landing Page](https://natalia-nerys.github.io/daily-landingPage/)                                                            |
-| [Última Release do Projeto](https://github.com/lfocarvalho/engenhariadesoftware/releases/tag/v3.0.0)            |
-| [Video do Produto](https://youtu.be/Z9VFx2eBiZs)           |
-| [Apresentação Final](https://www.canva.com/design/DAGryiWg8vs/1biOXCbjtC6qSIbNcjb1kw/view?utm_content=DAGryiWg8vs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc76e07b93f)           |
+| [Link do repositório](https://github.com/FelixSJ1/Mybeat)                   
 
 ---
 
