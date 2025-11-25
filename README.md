@@ -72,19 +72,17 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 
 <hr>
 
-### Grupo 3:
-|![) | <h2><a href="https://github.com/LeanAlbu/Cinetick">Cinetick</a></h2><br> O CineTick é uma plataforma voltada para a implementação do ambiente virtual de franquias de cinema. O sistema foca amplamente na interação com o usuário, permitindo que este veja os filmes em cartaz, suas avaliações, comentários de outros usuários e interaja diretamente com uma comunidade focada na sétima arte. |
-| ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+### Grupo 3: Cinetick
+
+| Sobre o Projeto | Logo |
+| :--- | :---: |
+| <h2><a href="https://github.com/LeanAlbu/Cinetick">Cinetick</a></h2><br> O CineTick é uma plataforma voltada para a implementação do ambiente virtual de franquias de cinema. O sistema foca amplamente na interação com o usuário, permitindo que este veja os filmes em cartaz, suas avaliações, comentários de outros usuários e interaja diretamente com uma comunidade focada na sétima arte. | <img src="https://github.com/LeanAlbu/Cinetick/raw/main/frontEnd/img/logo.png" alt="Cinetick" width="300px"/> |
 
 #### Equipe
 | Nome | Github |
-| ------------------------- | ------------------------------------------ |
+| :--- | :--- |
 | Lean de Albuquerque | [@LeanAlbu](https://github.com/LeanAlbu) |
-| André Victor Carvalho Alves | [@Andre](https://github.com/Andr206) |
-| Eduardo Alves Silva| [@dudupn](https://github.com/dudupn) |
-| Maria Fernanda Gomes Mendonça | [@mafezzzz](https://github.com/mafezzzz) |
-| Murilo Bezerra Valiati | [@Murilo](https://github.com/Murilo-Valiati) |
-
+| André Victor Carvalho Alves | [@Andr206](https://github.com/Andr206) |
 #### Repositório:
 | Links Uteis                                                                                |
 |------------------------------------------------------------------------------------------- |
