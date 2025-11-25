@@ -141,7 +141,7 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 | Links Úteis                                                                                                                |
 | :------------------------------------------------------------------------------------------------------------------------- |
 | [Link do repositório](https://github.com/FelixSJ1/Mybeat)                                                                  |
-| [link do vídeo do projeto](https://youtu.be/rzHlOBF0vBo)                                                                   |
+| [link do vídeo do projeto](https://drive.google.com/file/d/1mG9KVm068_xUZe0n2N7-ApTqKkTdVzDn/view?usp=drive_link)                                                                   |
 
 ---
 
