@@ -85,11 +85,14 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 | :--- | :--- |
 | Lean de Albuquerque | [@LeanAlbu](https://github.com/LeanAlbu) |
 | André Victor Carvalho Alves | [@Andr206](https://github.com/Andr206) |
+
+
 #### Repositório:
 | Links Uteis                                                                                |
 |------------------------------------------------------------------------------------------- |
 | [Cinetick- Ir ao Repositório](https://github.com/LeanAlbu/Cinetick?tab=readme-ov-file)     |
 | [PDF - APRESENTAÇÃO FINAL](https://github.com/LeanAlbu/Cinetick/blob/main/CCInetick-apresenta%C3%A7%C3%A3o%20final.pdf)|
+| [VÍDEO](https://youtu.be/FLIA1tcL0aA)|
 
 ---
 
