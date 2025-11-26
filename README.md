@@ -36,8 +36,6 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 | Kayke Zago Pinheiro                            | [@kayk002](https://gitihub.com/kayk002)                |
 
 ## 🔗 Links Úteis
-
-<hr>
 * **Landing page:** [Veja a landing-page do nosso projeto](https://lucas-mcarvalho.github.io/TimerBook/landing-page/)
 * **Slides da apresentação final :** [Ver slide](https://docs.google.com/presentation/d/1I2fChG8eKufSp2Qfpd4zYIhJ61E3I3un/edit?usp=sharing&ouid=105501819042772188213&rtpof=true&sd=true)
 * **Sprints (Drive):** [Ver Documento de Planejamento](https://drive.google.com/file/d/1HaVDZAgRSPGeEkHNOYYhkLJbO9HE6J2f/view?usp=sharing)
