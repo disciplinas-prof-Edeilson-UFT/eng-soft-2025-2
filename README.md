@@ -116,7 +116,7 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 | 🎥 Vídeo Demonstrativo | https://www.youtube.com/watch?v=lmjdiEXJb3M |
 | 🌐 Sistema Online (Landing Page) | https://pedeai-r6z7.onrender.com/ |
 | 🏷️ Última Release (v1.4.0) | https://github.com/esterarraiz/pedeai/releases/tag/v1.4.0 |
-
+| 📝 Apresentação Final (PDF) | [Clique aqui para acessar](https://github.com/disciplinas-prof-Edeilson-UFT/eng-soft-2025-2/blob/main/docs/PedeAI-Apresentacao-Final.pdf) |
 
 
 ---
