@@ -1,13 +1,14 @@
-# ENGENHARIA DE SOFTWARE 2025/02 | UNIVERSIDADE FEDERAL DO TOCANTINS - PALMAS
+# TimerBook
 
-### Curso: Ciência da Computação
+<img src="./TimerbookLogo.png" width="300" />
 
-### Professor: Dr. Edeílson Milhomem
+**Curso: Ciência da Computação**
+
+**Professor: Dr. Edeílson Milhomem**
 
 
-## Grupos:
 
-### GRUPO 1:
+**GRUPO 1:**
 
 | Nome                           | Perfil GitHub                                 |
 |--------------------------------|----------------------------------------------|
@@ -19,13 +20,33 @@
 | Kayk Zago Pinheiro             | [kayke002](https://github.com/kayke002)    |
 
 
-### PROJETO: TimerBook
 
 
-#### DESCRIÇÃO DO PROJETO
+
+# DESCRIÇÃO DO PROJETO
 
 O projeto TimerBook tem como objetivo ser um software para gerenciamento de suas leituras. Inclui Fetures que inclui cadastro de livros que o usuário esteja lendo, acesso a banco de dados de livros já cadastrados e sistemas de métricas e lembrentes para auxiliar o usuário na leitura de seus diversos livros e comensurar seu desempenho.
-<br>
-link do repositório: https://github.com/lucas-mcarvalho/TimerBook
 
+[Clique aqui e veja nossa landing-page do nosso projeto](https://lucas-mcarvalho.github.io/TimerBook/landing-page/)
 
+# O projeto foi feito usando as seguintes tecnologias:
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width= "50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50"/>
+</p>                                   
+          
+## 📅 PLANEJAMENTO
+
+Para a realização deste projeto já foram definidas as sprints e as histórias de usuário:
+* *** **Veja o nosso repostorio do github :** :*[Ver repositorio](https://github.com/lucas-mcarvalho/TimerBook)*
+* **Slides da apresentação final :** [Ver slide](https://docs.google.com/presentation/d/1I2fChG8eKufSp2Qfpd4zYIhJ61E3I3un/edit?usp=sharing&ouid=105501819042772188213&rtpof=true&sd=true)
+* **Sprints (Drive):** [Ver Documento de Planejamento](https://drive.google.com/file/d/1HaVDZAgRSPGeEkHNOYYhkLJbO9HE6J2f/view?usp=sharing)
+* **User Stories & Protótipo (Figma):** [Ver Telas no Figma](https://www.figma.com/proto/IihsrG5vSCSRwtLC64WnLd/User-Stories?node-id=0-1&t=epDzeNh9tx9MlHN4-1)
+* **Deploy (Sistema no Ar):** [http://15.228.40.136/TimerBook/public/](http://15.228.40.136/TimerBook/public/)
+* **Vídeo das Funcionalidades:** [Assista ao vídeo](https://drive.google.com/file/d/1LA9VjMVfSUz2YLcEWIxf78C1OAeQQ7D9/view)
