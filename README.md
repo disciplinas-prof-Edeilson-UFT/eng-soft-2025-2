@@ -19,7 +19,7 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 
 ### Grupo 1:
 
-#### BiblioTech
+#### TimerBook
 
 
  |<h2><a href="https://bibliotech-1067371253069.southamerica-east1.run.app/">TimerBook</a></h2><br>O projeto TimerBook tem como objetivo ser um software para gerenciamento de leituras. Inclui Features que incluem cadastro de livros que o usuário esteja lendo, acesso a banco de dados de livros já cadastrados, lembrentes para auxiliar o usuário na leitura de seus diversos e métricas estatísticas para o usuário comensurar seu desempenho e gerenciar o tempo gasto.|<img src="https://i.imgur.com/XpxTUXG.png" alt="TimerBook" /> |
