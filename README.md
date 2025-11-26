@@ -39,6 +39,11 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 | Links Uteis                                                                                                          |
 |--------------------------------------------------------------------------------------------------------------------- |
 | [TimerBook - Ir ao Repositório](https://github.com/lucas-mcarvalho/TimerBook)                                        |
+| [Ver slide](https://docs.google.com/presentation/d/1I2fChG8eKufSp2Qfpd4zYIhJ61E3I3un/edit?usp=sharing&ouid=105501819042772188213&rtpof=true&sd=true)
+| [Ver Documento de Planejamento](https://drive.google.com/file/d/1HaVDZAgRSPGeEkHNOYYhkLJbO9HE6J2f/view?usp=sharing)
+| [Ver Telas no Figma](https://www.figma.com/proto/IihsrG5vSCSRwtLC64WnLd/User-Stories?node-id=0-1&t=epDzeNh9tx9MlHN4-1)
+| **Deploy (Sistema no Ar):** [http://15.228.40.136/TimerBook/public/](http://15.228.40.136/TimerBook/public/)
+| **Vídeo das Funcionalidades:** [Assista ao vídeo](https://drive.google.com/file/d/1LA9VjMVfSUz2YLcEWIxf78C1OAeQQ7D9/view)
 
 <hr>
 
