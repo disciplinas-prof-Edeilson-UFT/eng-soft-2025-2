@@ -89,6 +89,7 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 | Links Uteis                                                                                |
 |------------------------------------------------------------------------------------------- |
 | [Cinetick- Ir ao Repositório](https://github.com/LeanAlbu/Cinetick?tab=readme-ov-file)     |
+| [PDF - APRESENTAÇÃO FINAL](https://github.com/LeanAlbu/Cinetick/blob/main/CCInetick-apresenta%C3%A7%C3%A3o%20final.pdf)|
 
 ---
 
