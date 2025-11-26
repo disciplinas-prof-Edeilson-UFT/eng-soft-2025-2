@@ -192,10 +192,13 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 | Lucas Farias | [@Kl4uz](https://github.com/Kl4uz)|
 
 
-#### Repositório:
-| Links Úteis |
-|--------------|
-| [VirtuaLib - Ir ao Repositório](https://github.com/cayke1/VirtuaLib) |
-|[Landing-Page ](https://cayke1.github.io)                             |
-|[Versão final ](https://caykedev.com) |
-|[Video de apresentação](https://www.youtube.com/watch?v=vuQPt59vz-M)  |
+### 🔗 Links Úteis
+| Recurso | Link |
+|--------|------|
+| 📁 Repositório Oficial | https://github.com/cayke1/VirtuaLib |
+| 🌐 Landing Page | https://cayke1.github.io |
+| 🏁 Versão Final | https://caykedev.com |
+| 🎥 Vídeo de Apresentação | https://www.youtube.com/watch?v=vuQPt59vz-M |
+| 🏷️ Última Release (v0.4) | https://github.com/cayke1/VirtuaLib/releases/tag/v0.4 |
+| 📝 Apresentação Final (PDF) | https://github.com/cayke1/VirtuaLib/blob/main/docs/Engenharia%20de%20Software.pdf |
+
