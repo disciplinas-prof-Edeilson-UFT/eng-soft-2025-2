@@ -173,11 +173,18 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 | Thales Marques Rodrigues |[@Thales-uft2022-2](https://github.com/Thales-uft2022-2) |
 | Vinicius Fernandes Simon  | [@viniciusfernandessimon](https://github.com/viniciusfernandessimon) |
 
+## 🔗 Links Úteis
 
-#### Repositório:
-| Links Uteis                                                                                |
-|------------------------------------------------------------------------------------------- |
-| [DinDin - Repositório](https://github.com/Thales-uft2022-2/DinDin)     |
+| Recurso | Link |
+|--------|------|
+| 📁 Repositório Oficial | [https://github.com/Thales-uft2022-2/DinDin](https://github.com/Thales-uft2022-2/DinDin) |
+| 🎥 Vídeo Demonstrativo | [Clique Aqui](https://github.com/Thales-uft2022-2/DinDin/blob/main/docs/DinDin-Video-Apresentacao(1).mp4) |
+| 🌐 Sistema Online (Landing Page) | [Clique Aqui](https://thales-uft2022-2.github.io/DinDin/) |
+| 🏷️ Última Release | [https://github.com/Thales-uft2022-2/DinDin/releases/tag/Release](https://github.com/Thales-uft2022-2/DinDin/releases/tag/Release) |
+| 📝 Apresentação Final (PDF) | [Clique aqui](https://github.com/Thales-uft2022-2/DinDin/blob/main/docs/DinDin-apresentacao-final.pdf) |
+
+
+
 
 
 
