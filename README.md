@@ -147,10 +147,10 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 
 | Links Úteis                                                                                                                |
 | :------------------------------------------------------------------------------------------------------------------------- |
-| [Link do repositório](https://github.com/FelixSJ1/Mybeat)                                                                  |
-| [link do vídeo do projeto](https://drive.google.com/file/d/1mG9KVm068_xUZe0n2N7-ApTqKkTdVzDn/view?usp=drive_link)          |                                                         |
-|[link da landing page](https://felixsj1.github.io/Mybeat/)                                                                  |
-|[link da última release](https://github.com/FelixSJ1/Mybeat/releases/tag/1.4)                                               |
+| 📁 Repositório Oficial | [Link do repositório](https://github.com/FelixSJ1/Mybeat)                                                                  |
+| 🎥 Vídeo Demonstrativo | [link do vídeo do projeto](https://youtu.be/K9MnrKWwZfg)          |                                                         |
+|🌐 Landing Page | [link da landing page](https://felixsj1.github.io/Mybeat/)                                                                  |
+|🏷️ Última Release (v1.4.0) | [link da última release](https://github.com/FelixSJ1/Mybeat/releases/tag/1.4)                                               |
 ---
 
 ### Grupo 6: 
