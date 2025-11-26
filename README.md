@@ -193,3 +193,6 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 | Links Úteis |
 |--------------|
 | [VirtuaLib - Ir ao Repositório](https://github.com/cayke1/VirtuaLib) |
+|[Landing-Page ](https://cayke1.github.io)                             |
+|[Versão final ](https://caykedev.com) |
+|[Video de apresentação](https://www.youtube.com/watch?v=vuQPt59vz-M)  |
