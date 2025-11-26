@@ -45,6 +45,8 @@ O código-fonte e o histórico de desenvolvimento deste projeto podem ser encont
 **Link do GitHub:** [Clique](https://github.com/Thales-uft2022-2/DinDin/)
 
 ---
+Versão Final - [Clique](https://github.com/Thales-uft2022-2/DinDin/releases/tag/Release)
+---
 LandingPage: [Clique](https://thales-uft2022-2.github.io/DinDin/)
 ---
 [Apresentação Final da Disciplina](#)
