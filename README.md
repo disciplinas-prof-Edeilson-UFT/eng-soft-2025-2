@@ -42,7 +42,7 @@ O foco é ajudar o usuário a **controlar receitas e despesas**, organizar em **
 
 O código-fonte e o histórico de desenvolvimento deste projeto podem ser encontrados no seguinte endereço:
 
-**Link do GitHub:** `https://github.com/Thales-uft2022-2/DinDin`
+**Link do GitHub:** [Clique](https://github.com/Thales-uft2022-2/DinDin/)
 
 ---
 LandingPage: [Clique](https://thales-uft2022-2.github.io/DinDin/)
