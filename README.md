@@ -106,11 +106,14 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 | Matheus Henrique de Freitas  | [@MatheusHFreitas](https://github.com/MatheusHFreitas) |
 | Vitória Maria Reis Fontana | [@vitoriamrfontanaP](https://github.com/vitoriamrfontana) |
 
+## 🔗 Links Úteis
 
-#### Repositório:
-| Links Uteis                                                                                |
-|------------------------------------------------------------------------------------------- |
-| [PedeAI - Ir ao Repositório](https://github.com/esterarraiz/pedeai)     |
+| Recurso | Link |
+|--------|------|
+| 📁 Repositório Oficial | https://github.com/esterarraiz/pedeai |
+| 🎥 Vídeo Demonstrativo | https://www.youtube.com/watch?v=lmjdiEXJb3M |
+| 🌐 Sistema Online (Landing Page) | https://pedeai-r6z7.onrender.com/ |
+| 🏷️ Última Release (v1.4.0) | https://github.com/esterarraiz/pedeai/releases/tag/v1.4.0 |
 
 
 
