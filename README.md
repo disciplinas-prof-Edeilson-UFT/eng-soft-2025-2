@@ -65,17 +65,15 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 | Matheus Sousa | [@math3us-sousa](https://github.com/math3us-sousa) |
 | Gabriel Rodrigues | [@gabbilless](https://github.com/gabbilless) |
 
----
+## 🔗 Links Úteis
 
-#### Repositório:
-| Links Uteis                                                                                |
-|------------------------------------------------------------------------------------------- |
-| [Link para repositório do projeto](https://github.com/drgeralt/RHEase) |
-| [Landing page](https://vitoriamilhomem.github.io/RHease/) |
-| [Vídeo](https://www.youtube.com/watch?v=jL8caFVqQlw&feature=youtu.be) |utm_content=DAG5yNtOFZM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb3086eeb7b
-| [Última Release do Projeto](https://github.com/drgeralt/RHease/releases/tag/v1.5.0) |
-| 📝 Apresentação Final (PDF) | [Clique aqui para acessar](https://www.canva.com/design/DAG5yNtOFZM/CNEEnDvNRJE3n5qi2iYXog/view?) |
-
+| Recurso | Link |
+|--------|------|
+| 📁 Repositório Oficial | https://github.com/drgeralt/RHEase |
+| 🎥 Vídeo Demonstrativo | https://www.youtube.com/watch?v=jL8caFVqQlw&feature=youtu.be |
+| 🌐 Sistema Online (Landing Page) | https://vitoriamilhomem.github.io/RHease/ |
+| 🏷️ Última Release (v5.0.0) | https://github.com/drgeralt/RHease/releases/tag/v1.5.0 |
+| 📝 Apresentação Final | [Clique aqui para acessar](https://www.canva.com/design/DAG5yNtOFZM/CNEEnDvNRJE3n5qi2iYXog/view?) |
 <hr>
 
 ### Grupo 3: Cinetick
