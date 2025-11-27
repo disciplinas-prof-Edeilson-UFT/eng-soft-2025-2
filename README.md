@@ -50,7 +50,7 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 ### Grupo 2: 
 
 #### RHease
- |<h2>RHease</h2><br>Este projeto tem como objetivo principal o desenvolvimento de um sistema robusto para a automação completa dos processos do setor de Recursos Humanos. A ideia é criar uma ferramenta que otimize rotinas, reduza custos operacionais e aumente a eficiência geral do departamento. Com o uso de tecnologias modernas, o sistema foi projetado para permitir que centenas de colaboradores possam ser gerenciados com o mínimo de esforço humano, centralizando as operações e garantindo a conformidade com as leis trabalhistas. |<img src="" alt="RHease" width="1500px"/> |
+ |<h2>RHease</h2><br>Este projeto tem como objetivo principal o desenvolvimento de um sistema robusto para a automação completa dos processos do setor de Recursos Humanos. A ideia é criar uma ferramenta que otimize rotinas, reduza custos operacionais e aumente a eficiência geral do departamento. Com o uso de tecnologias modernas, o sistema foi projetado para permitir que centenas de colaboradores possam ser gerenciados com o mínimo de esforço humano, centralizando as operações e garantindo a conformidade com as leis trabalhistas. |<img src="https://github.com/drgeralt/RHease/blob/main/public/img/rhease-ease%201.png" alt="RHease" width="1500px"/> |
 | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 -------
 
@@ -71,9 +71,9 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 | Links Uteis                                                                                |
 |------------------------------------------------------------------------------------------- |
 | [Link para repositório do projeto](https://github.com/drgeralt/RHEase) |
-| [Landing page]() |
-| [Vídeo]() |
-| [Última Release do Projeto]() |
+| [Landing page](https://vitoriamilhomem.github.io/RHease/) |
+| [Vídeo](https://www.youtube.com/watch?v=jL8caFVqQlw&feature=youtu.be) |
+| [Última Release do Projeto](https://github.com/drgeralt/RHease/releases/tag/v1.5.0) |
 
 <hr>
 
