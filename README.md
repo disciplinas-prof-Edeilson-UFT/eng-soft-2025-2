@@ -72,8 +72,9 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 |------------------------------------------------------------------------------------------- |
 | [Link para repositório do projeto](https://github.com/drgeralt/RHEase) |
 | [Landing page](https://vitoriamilhomem.github.io/RHease/) |
-| [Vídeo](https://www.youtube.com/watch?v=jL8caFVqQlw&feature=youtu.be) |
+| [Vídeo](https://www.youtube.com/watch?v=jL8caFVqQlw&feature=youtu.be) |utm_content=DAG5yNtOFZM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb3086eeb7b
 | [Última Release do Projeto](https://github.com/drgeralt/RHease/releases/tag/v1.5.0) |
+| 📝 Apresentação Final (PDF) | [Clique aqui para acessar](https://www.canva.com/design/DAG5yNtOFZM/CNEEnDvNRJE3n5qi2iYXog/view?) |
 
 <hr>
 
